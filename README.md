@@ -23,28 +23,29 @@
   git init
 
 ### 4. Connecting to GitHub
-```bash
-git remote add origin https://github.com/vutagwa/PLPBasicGitAssignment.git
+  -  ```bash
+  - git remote add origin https://github.com/vutagwa/PLPBasicGitAssignment.git 
 
 ## Task 3: Making Changes
+
 ### 5. Create a File
-```bash
-touch hello.txt
-code .
+  - ```bash
+  - touch hello.txt
+  - code .
 
 ### 6. Committing Changes
-```bash
-git add hello.txt
-git commit -m "Add hello.txt with a greeting"
+  - ```bash
+  - git add hello.txt
+  - git commit -m "Add hello.txt with a greeting"
 
 ## Task 4: Pushing to GitHub
 ### 7. Pushing to GitHub
-```bash
-git push -u origin main
+  - ```bash
+  - git push -u origin main
 
 ## Task 5: Verification
 ### 8. Verify on GitHub
-refreshed github and confirmed the changes were made
+  - refreshed github and confirmed the changes were made
 
 
 
